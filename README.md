@@ -13,7 +13,7 @@ It provides a flexible environment for creating, managing, and participating in 
 - Choose from different **pricing plans** for each course.  
   ![Pricing Plan](screenshots/pricing-plan.png)
 - Post **notices** to keep mentees updated about course changes or announcements.  
-  ![Add Notice]screenshots/add-notice.png)
+  ![Add Notice](screenshots/add-notice.png)
   ![Course Notices](screenshots/course-notice.png)
 
 ### 👩‍🎓 For Mentees
